@@ -11,8 +11,14 @@ Ultra T3sl@Cr@ft BIPAS
 
 ANTOSHKA BYPASS (INFINITE SC@FF0LD)
 
+ANT1 ST@FF M0DE (N0 ST@FF B@NS)
+
 ![f](https://github.com/podliver/KozlovClient/assets/173271760/231f1bcc-dae1-4cc9-8d02-6381d201d5b3)
+
+
 ![p](https://github.com/podliver/KozlovClient/assets/173271760/0147ea7b-63dc-4e17-82dd-60fa7df7c3b4)
+
+
 ![f](https://github.com/podliver/KozlovClient/assets/173271760/a8d79422-3542-4ca1-82aa-04261e7e6423)
 
 
