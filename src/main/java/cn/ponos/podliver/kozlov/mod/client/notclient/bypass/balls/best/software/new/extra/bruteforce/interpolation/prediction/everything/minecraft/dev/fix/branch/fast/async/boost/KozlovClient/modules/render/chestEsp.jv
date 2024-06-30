@@ -5,9 +5,10 @@ class ChestEsp implements module, kozlov, bypass, bruteforceinterpolation, predi
 	for (entity e : mc.getEntities) {
 		if (e.getType = EntityType.CHEST || e.getType = EntityType.ENDER_CHEST) {
 			Chest chest = e;
-			// bruteforcing chest content in the most efficient way
-			// bruteforcing chest content in the most efficient way
-			// bruteforcing chest content in the most efficient way
+
+			// bruteforcing chest content in the most efficient way (no lag whatsoever)
+			// tries to use the C69ChestContent packet (server sends this packet by accident)
+			// credits to: BruteforceGod
 
 			System.out.println(chest.getContent().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString()); 
 			System.out.println(chest.getContent().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString().toString()); 
