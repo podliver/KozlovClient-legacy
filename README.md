@@ -1,7 +1,5 @@
 # KozlovClient | An advanced free client
 
-
-
 ## Features:
 
 BowAimBot - Automatically aims bow for you;
