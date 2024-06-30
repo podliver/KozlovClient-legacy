@@ -34,7 +34,7 @@ PashaPro2004RU: This is me after using this client. Thanks to Podliver and his t
 
 
 
-VladimirPonos4: My father was in prison. But after I installed KozlovClient he was released from it... Thanks to podliver. 420/10.
+VladimirPonos4: My father was in prison, but after I installed KozlovClient he was released from it. Thanks to podliver. 420/10.
 
 ![f](https://github.com/podliver/KozlovClient/assets/173271760/a8d79422-3542-4ca1-82aa-04261e7e6423)
 
