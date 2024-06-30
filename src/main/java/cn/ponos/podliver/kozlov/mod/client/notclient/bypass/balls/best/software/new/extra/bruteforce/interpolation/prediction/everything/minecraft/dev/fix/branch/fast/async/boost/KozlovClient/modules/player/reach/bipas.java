@@ -1,5 +1,5 @@
 class bipas {
-    // finding a flaw in the anticheat, so you can use 5 blocks reach.
+    // finding a flaw in the anticheat using Nvidia Ray Trace brute force interpolation, so you can use 5 blocks reach.
     // credits to: KOZLOVBypasser.
     public static boolean findbypas() {
         return;
