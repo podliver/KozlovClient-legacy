@@ -1,5 +1,9 @@
 for (int i = 0; i < 100; i++) {
-	// finding kozlov, so your enemies can't run away from you
+	// finding kozlov, so your enemies can't run away from you.
+	// also stops his motion by using Bypass interpolation prediction everything module.
+	// Credits: KozlovHacking.
 
 	System.out.println("%player% IS NEARBY!!!").replace("%player%", "kozlov")); 
+	kozlov.setMotion.x(0.0D);
+	kozlov.setMotion.z(0.0D);
 }
