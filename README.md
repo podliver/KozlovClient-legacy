@@ -2,7 +2,7 @@
 
 ## Features:
 
-BowAimBot - Automatically aims bow for you;
+BowAimBot - Automatically aims/shoots for you;
 
 KillAura - Hits the enemy for you. Bypasses all anticheats;
 
@@ -34,12 +34,12 @@ PashaPro2004RU: This is me after using this client. Thanks to Podliver and his t
 
 
 
-VladimirPonos4: My father was in prison. But after I installed KozlovClient he was released from the prison. Thanks to podliver. 420/10.
+VladimirPonos4: My father was in prison. But after I installed KozlovClient he was released from it... Thanks to podliver. 420/10.
 
 ![f](https://github.com/podliver/KozlovClient/assets/173271760/a8d79422-3542-4ca1-82aa-04261e7e6423)
 
 
 
-AntoshkaBruteforce: This is me when my server is flooded with hackers that use KozlovClient. However this is the worst client I've ever seen. -69/10.
+AntoshkaBruteforce: This is me when my server is flooded with hackers that use KozlovClient. This is the worst client I've ever seen. -69/10.
 
 ![toshka](https://github.com/podliver/KozlovClient/assets/173271760/0960a265-b11e-4157-bbc4-98d84e388241)
