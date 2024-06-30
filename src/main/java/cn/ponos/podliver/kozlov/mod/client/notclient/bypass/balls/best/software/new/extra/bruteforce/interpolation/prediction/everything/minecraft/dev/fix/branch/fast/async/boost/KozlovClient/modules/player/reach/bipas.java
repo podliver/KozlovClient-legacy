@@ -1,7 +1,7 @@
 class bipas {
     // finding a flaw in the anticheat, so you can use 5 blocks reach.
     // credits to: KOZLOVBypasser.
-    public static findbypas() {
+    public static boolean findbypas() {
         return;
     }
     public static void main(String[] args) {
