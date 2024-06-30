@@ -22,7 +22,7 @@ Tracers - Finds kozlov on your map, so your opponents can't run away from you. A
 
 ## Here are some reviews of our client's users:
 
-KozlovBypasser: Thank you so much for the client, i was able to destroy another hacker that was using a client for 35$. However, KozlovClient is free, so i don't need to buy any cheats for a block game! 69/10!
+KozlovBypasser: Thank you so much for the client, I was able to destroy another hacker that was using a client for 35$. However, KozlovClient is free, so i don't need to buy any clients for a block game! 69/10!
 
 ![f](https://github.com/podliver/KozlovClient/assets/173271760/231f1bcc-dae1-4cc9-8d02-6381d201d5b3)
 
