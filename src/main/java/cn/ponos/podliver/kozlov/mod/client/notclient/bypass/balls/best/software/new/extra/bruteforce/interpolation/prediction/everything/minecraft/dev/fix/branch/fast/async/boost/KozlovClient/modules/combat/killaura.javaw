@@ -1,0 +1,7 @@
+class KillllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllAura {
+	string enemy = "kozlov";
+	while (mc.player.hurtTime = 0) {
+		mc.hotkeys.hit(enemy);
+		}
+	}
+}
