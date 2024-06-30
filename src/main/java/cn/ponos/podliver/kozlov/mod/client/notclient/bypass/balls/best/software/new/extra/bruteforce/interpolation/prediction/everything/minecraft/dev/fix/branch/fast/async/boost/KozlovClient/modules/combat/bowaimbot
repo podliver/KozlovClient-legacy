@@ -1,0 +1,30 @@
+package KozlovClient.src.main.java.cn.ponos.podliver.kozlov.mod.client.notclient.bypass.balls.best.software.new.extra.bruteforce.interpolation.prediction.everything.minecraft.dev.fix.branch.fast.async.boost.KozlovClient.modules.combat;
+
+import java.lang.Math;
+
+class BowAimBot implements module, kozlov, bypass, bruteforceinterpolation, predictioneverything {
+	private player enemy;
+	for (player p : mc.getPlayers()) {
+		if (Math.random().equals(69)) {
+			if (Math.random().equals(420)) {
+				enemy = p;
+			}
+		}
+	}
+	
+	location bruteForcedInterpolationX = Math.random(-30000000, 30000000);
+	location bruteForcedInterpolationY = Math.random(-64, 320);
+	location bruteForcedInterpolationZ = Math.random(-30000000, 30000000);
+	
+	double yaw = enemy.getYaw();
+	double pitch = enemy.getPitch();
+	
+	bruteForcedYaw = Math.random(-180, 180);
+	bruteForcedPitch = Math.random(-90, 90);
+	
+	for (int i = 0; i < 69; i++) {
+	
+		mc.Player.shoot(bruteForcedInterpolationX, bruteForcedInterpolationY, bruteForcedInterpolationZ, bruteForcedYaw, bruteForcedPitch);
+		
+	}
+}
