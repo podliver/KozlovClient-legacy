@@ -3,7 +3,7 @@ public class collidespeed {
     private double math;
     private boolean bypass;
 
-    // this module is finding the best speed you can use, so you can BYPASS anticheat easily.
+    // this module is finding the best speed you can use (using BruteForcing math and Albert Einstein method (by bypassing Newton's law)), so you can BYPASS anticheat easily.
     // Credits to: IndianCheater.
 
     public speedBypass(double math) {
