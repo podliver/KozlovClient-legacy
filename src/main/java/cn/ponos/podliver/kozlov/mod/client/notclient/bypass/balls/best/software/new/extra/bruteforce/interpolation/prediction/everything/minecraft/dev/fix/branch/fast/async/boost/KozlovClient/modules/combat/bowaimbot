@@ -3,6 +3,10 @@ package KozlovClient.src.main.java.cn.ponos.podliver.kozlov.mod.client.notclient
 import java.lang.Math;
 
 class BowAimBot implements module, kozlov, bypass, bruteforceinterpolation, predictioneverything {
+
+	// this module predicts your enemy movement using Elon Musk technology, you dont even have to hold right click, it does everything for you!
+	// credits to podliver
+
 	private player enemy;
 	for (player p : mc.getPlayers()) {
 		if (Math.random().equals(69)) {
