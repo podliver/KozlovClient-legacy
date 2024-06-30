@@ -1,6 +1,7 @@
 class KillllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllAura {
 	
 	// bypasses all anticheats (no settings, the module will automatically be configured for you on any server)
+	// transcends two systems in thermodynamic equilibrium with a third system are in thermal equilibrium with each other
 	// credits to: Podliver
 
 	string enemy = "kozlov";
