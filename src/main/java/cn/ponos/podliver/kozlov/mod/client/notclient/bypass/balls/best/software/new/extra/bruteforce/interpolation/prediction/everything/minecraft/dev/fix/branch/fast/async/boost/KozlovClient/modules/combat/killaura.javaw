@@ -1,4 +1,8 @@
 class KillllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllAura {
+	
+	// bypasses all anticheats (no settings, the module will automatically be configured for you on any server)
+	// credits to: Podliver
+
 	string enemy = "kozlov";
 	while (mc.player.hurtTime = 0) {
 		mc.hotkeys.hit(enemy);
