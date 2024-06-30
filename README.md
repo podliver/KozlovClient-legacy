@@ -1,6 +1,6 @@
-## KozlovClient | An advanced free client
+# KozlovClient | An advanced free client
 
-# Features:
+## Features:
 
 BowAimBot - Automatically aims bow for you;
 
@@ -18,7 +18,7 @@ Tracers - Finds kozlov on your map, so your opponents can't run away from you. A
 
 
 
-# Here are some reviews of our client's users:
+## Here are some reviews of our client's users:
 
 ![f](https://github.com/podliver/KozlovClient/assets/173271760/231f1bcc-dae1-4cc9-8d02-6381d201d5b3)
 
