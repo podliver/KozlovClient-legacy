@@ -2,7 +2,7 @@
 
 ## Showcase:
 
-[https://www.youtube.com/watch?v=DrGTf2goEes](https://www.youtube.com/watch?v=npUPebhpqPw)
+https://www.youtube.com/watch?v=npUPebhpqPw
 
 ## Features:
 
