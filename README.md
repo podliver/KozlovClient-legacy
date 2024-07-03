@@ -2,7 +2,7 @@
 
 ## Showcase:
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png](https://i.sstatic.net/Vp2cE.png](https://github.com/podliver/KozlovClient/assets/173271760/004cf6b7-4dc0-4c17-adef-8c223ae0c8ea)](https://www.youtube.com/watch?v=DrGTf2goEes)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png](https://github.com/podliver/KozlovClient/assets/173271760/004cf6b7-4dc0-4c17-adef-8c223ae0c8ea)](https://www.youtube.com/watch?v=DrGTf2goEes)
 
 ## Features:
 
