@@ -1,6 +1,12 @@
 # KozlovClient | An advanced free client
 
-## Showcase:
+## Deprecated version
+Because of bad code and bad contributors (like Afonin-Anthony) this repository needed a full recode.
+New repository: https://github.com/podliver/KozlovClient
+Thanks for your support!
+![kozlov умер](https://github.com/user-attachments/assets/693743a8-dea3-43af-8559-e4b840b7042c)
+
+## Showcase (OLD):
 
 https://www.youtube.com/watch?v=npUPebhpqPw
 
